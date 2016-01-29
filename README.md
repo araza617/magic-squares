@@ -1,2 +1,2 @@
 # magic-squares
-Creates Magic Squares of any odd integer size and informally proofs Magic Square Theory
+This program creates Magic Squares for any odd number N. It also runs verification for each magic square and serves as an informal proof of Magic Square Theory as N -> Inf.
